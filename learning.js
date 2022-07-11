@@ -24,4 +24,4 @@ function resertozero(){
     // const number = parseInt(num.innerHTML);
     num.classList.remove("greenColor");
     num.innerHTML = 0;
-}
+}  
